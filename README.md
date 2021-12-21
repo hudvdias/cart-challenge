@@ -27,6 +27,14 @@ Esse projeto é um desafio da [Rocketseat](https://www.rocketseat.com.br/).
 - [x] Validação de estoque;
 - [x] Exibição de mensagens de erro;
 
+## Como rodar a aplicação
+
+1. Faça um clone do repositório na sua máquina.
+2. Execute o comando `yarn` na pasta raiz do projeto para instalar as dependências.
+3. Execute o comando `yarn server` para rodar o JSON Server.
+4. Em outra aba do terminal, execute o comando `yarn start` para rodar a aplicação.
+5. Acesse http://localhost:3000/ para acessar a aplicação.
+
 ---
 
 ✌
